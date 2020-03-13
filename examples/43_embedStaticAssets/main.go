@@ -1,10 +1,10 @@
 package main
 
 import (
+	"html/template"
 	"io/ioutil"
 	"net/http"
 	"strings"
-	"text/template"
 
 	"github.com/gin-gonic/gin"
 )
